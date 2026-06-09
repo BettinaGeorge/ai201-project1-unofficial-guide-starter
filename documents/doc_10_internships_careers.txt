@@ -1,0 +1,54 @@
+Source: Reddit r/UNC and UNC CS Discord (manually collected)
+Domain: UNC Chapel Hill internship and career advice
+
+---
+
+Thread: "How UNC CS students actually get internships - honest breakdown" (r/UNC, 1.1k upvotes)
+
+Top comment:
+I've had 3 internships (including a FAANG) as a UNC CS student. Here's what actually works:
+
+THE TIMELINE THAT MATTERS:
+- Big tech companies (Google, Meta, Amazon, Microsoft, Apple) open applications in AUGUST/SEPTEMBER for the following summer. This is not a joke. If you wait until spring you've already missed most of the top-tier opportunities.
+- Mid-size tech companies recruit October-December.
+- Startups recruit year-round and often into spring.
+- Research internships at universities often have January-February deadlines.
+
+Set calendar reminders in late July to start checking company career pages. Use Pitt CSC's GitHub repo for a running list of open internships - it's crowd-maintained and updated daily.
+
+THE REALITY OF ON-CAMPUS RECRUITING:
+UNC is a target school for some companies but not all. Companies that actively recruit at UNC: SAS Institute (Cary), Red Hat, Cisco (RTP area), EPA (research Triangle), some banking (Bank of America, Truist). For big tech, UNC is less of a direct target than NC State for some companies (because of the CS department size difference) but UNC CS students absolutely do get these roles - you just need to apply online rather than waiting for on-campus recruitment.
+
+Reply (789 upvotes):
+The most underrated path: CS professors' research networks. If you do research with a professor who has industry connections, they will introduce you to people. I got my internship from a professor forwarding my resume to a former student. This path requires building the relationship (office hours, asking questions, eventually asking about research) but it pays off.
+
+Reply (534 upvotes):
+Resume tips specific to UNC CS students:
+
+- Projects matter more than GPA below 3.5. At 3.5+ you can list it prominently. Below 3.5, put projects first.
+- Course projects (523, 426, 433) count as projects on your resume. Write a 2-sentence description of what you built and what tech you used.
+- GitHub presence: Have at least 2-3 pinned repos with READMEs that explain what the project does. Recruiters look at GitHub.
+- The "UNC Chapel Hill" brand helps domestically, especially in the Southeast. Use the full name.
+
+Reply (412 upvotes):
+Technical interview preparation: LeetCode is the standard. Target: be comfortable with Easy problems after your first internship applications, Medium problems for any serious FAANG prep. UNC's CS curriculum does NOT prepare you for LeetCode-style problems - you need to practice separately. Start 2-3 months before you plan to interview. The Blind 75 list is a good starting point.
+
+---
+
+Thread: "Is grad school worth it for CS from UNC?" (r/UNC)
+
+Top comment (345 upvotes):
+In my experience talking to recent grads and grad students, here's the real breakdown:
+
+MS (Master's degree) in CS:
+- Worth it if: you want to specialize (ML, systems, HCI), your undergrad GPA isn't competitive for your target roles, or you want to transition into CS from another field.
+- Not worth it if: you want software engineering jobs - a UNC CS bachelor's degree plus a good internship record is sufficient for almost all SWE roles. Don't spend $50k on an MS to do the same job.
+- Funded MS programs exist (rare) - these are usually research-focused. Apply if you're interested in research.
+
+PhD:
+- Only do this if you want to do research. Full stop. Funded PhD programs are free and pay a stipend. UNC CS has a strong PhD program in HCI, database systems, and bioinformatics.
+- Timeline is 4-6 years. The mental health challenges are real and should be factored in.
+- For academia: PhD is required. For industry research (e.g., research scientist at big tech): PhD is preferred but not always required.
+
+Reply (267 upvotes):
+If you're thinking about grad school, research experience as an undergrad is essential for PhD applications and helpful for MS applications. Start doing research junior year at the latest. Email professors whose work interests you. Most labs have undergrad research assistant positions. These are sometimes paid, often for credit, sometimes volunteer - the experience matters more than the payment.

@@ -1,0 +1,52 @@
+Source: Reddit r/UNC - freshman survival guide threads (manually collected)
+Domain: UNC Chapel Hill campus survival tips
+
+---
+
+Thread: "Things I wish someone told me before freshman year at UNC" (r/UNC, 2.3k upvotes)
+
+Top comment:
+Going into my senior year and here's everything I wish the orientation packet actually told me:
+
+ACADEMICS:
+- ConnectCarolina crashes during course registration. Have your list of classes (with backup options) ready before it opens. Open the page and just keep refreshing.
+- ENROLL THE MINUTE registration opens. Popular classes fill within minutes. Set a phone alarm for your exact registration time.
+- You can sit in on any class for the first few days of the semester to decide if you want to add it. Professors generally allow this. Drop deadlines matter - know them.
+- The Writing Center (Undergraduate Writing Center, SASB North building) is free, excellent, and underused. Book appointments early in the semester not the night before a paper is due.
+- Peer tutoring through the Learning Center is also free. CS, math, and econ are the most popular subjects. Appointments go fast during midterms.
+
+LOGISTICS:
+- Park-and-Ride is your friend if you have a car. UNC's campus parking is expensive and scarce. The P&R lots connect to free campus shuttles.
+- The P2P (Point-to-Point) shuttle runs late night (around midnight to 3am) for safety. You can request it from anywhere on campus to anywhere else on campus. Use it.
+- Bikes are useful but you WILL get your bike stolen if you use a cheap lock. Get a U-lock. Register your bike with UPS (campus police) - it helps with recovery if stolen.
+- UNC has 24/7 library access (Davis and Wilson libraries). Bring your OneCard. The stacks in Wilson Library are quiet and weirdly calming.
+
+SOCIAL:
+- Don't rush to join everything at once. The Activities Fair has 700+ student orgs. Commit to 2-3 max your first semester and see what sticks.
+- The email listservs for student orgs are overwhelming. Unsubscribe from the ones you're not active in or your inbox will be unusable by October.
+- Heels Connect is the official org portal. It's clunky but it's how you find official meeting times.
+
+Reply (1.1k upvotes):
+The ONE thing nobody tells you: go to office hours. Not just when you're failing. Go when you're doing fine. Professors remember students who come to office hours. This matters for letters of recommendation, research opportunities, and sometimes grade borderlines. It's not brown-nosing, it's how college actually works.
+
+Reply (876 upvotes):
+Health services tip: Campus Health (on campus) is fine for basic stuff but has long wait times during cold/flu season (September-October, February). Book appointments online the morning they open, not by calling. If it's urgent, use the same-day sick appointments that open at 8am. For mental health, CAPS has a waitlist but also does same-day crisis appointments - don't wait if you're struggling.
+
+Reply (654 upvotes):
+Financial tip: The Rams' Pantry (food pantry) is available to any UNC student, no questions asked, no income verification. It's in the Student Union. If you're struggling to afford food, please use it. There's also an emergency loan fund through the Dean of Students office. These resources exist for a reason and no one will judge you for using them.
+
+Reply (523 upvotes):
+Weather: Chapel Hill gets real winters and humid summers. The fall/spring weather is beautiful but brief. The period from mid-November to late January is genuinely cold. Budget for a real coat. The campus gets icy in January/February and the hills are treacherous - give yourself extra time. Classes are rarely cancelled for weather (unlike K-12).
+
+---
+
+Thread: "Best places to study on campus that aren't Davis Library" (r/UNC)
+
+Top comment (445 upvotes):
+Davis is great but gets noisy during midterms. Alternatives ranked:
+
+1. Wilson Library (the old one) - beautiful, quiet, has individual study rooms you can book. Has good wifi. Closes earlier than Davis.
+2. Phillips Hall (if you're in STEM) - the grad student lounge on the 3rd floor is often empty and has outlets everywhere.
+3. Kenan-Flagler Business School - the main atrium has good wifi and is open to all students. Comfortable seating. Feels fancy.
+4. The Undergraduate Library (UL) in Davis - separate from the main stacks, more social vibe, good for group work.
+5. The Student Union - the Pit-adjacent seating areas have good wifi but it gets loud. The upper floors are quieter.

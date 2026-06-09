@@ -1,0 +1,48 @@
+Source: Rate My Professors - UNC Chapel Hill COMP 401
+Collected: manually from ratemyprofessors.com
+Domain: UNC professor and course reviews
+
+---
+
+Professor: Ketan Mayer-Patel (COMP 401 - Foundations of Programming)
+Rating: 3.2/5
+
+Review 1:
+KMP is brilliant but moves at lightning speed. If you don't do the assignments every week you will fall behind and there's no catching up. The lectures are recorded which is a lifesaver. Exams are based almost entirely on the assignments - if you understand every line of code you wrote, you'll be fine. Don't expect curves. Attendance is not taken but you will be lost if you skip.
+
+Review 2:
+COMP 401 with KMP is the weed-out course for CS majors. It is genuinely hard. The assignments take 10-20 hours each if you're new to programming. Office hours are crowded but helpful. His TAs are excellent - go to TA office hours first before going to his. The grader is strict about style. Start assignments the day they're posted, not the day before they're due.
+
+Review 3:
+He is very knowledgeable and clearly cares about teaching. However, the class moves fast and assumes you can figure things out independently. The autograder is unforgiving. Partial credit exists but only if your code compiles. My biggest advice: read the assignment spec multiple times before starting. The specs are long but every detail matters.
+
+Review 4:
+Loved this class even though it was hard. KMP actually explains the "why" behind everything not just the "how." The iterator pattern assignment was brutal but I finally understood OOP after doing it. Grade breakdown is mostly assignments (50%), two midterms (30%), and a final (20%). The final is cumulative. Study the design patterns section carefully.
+
+Review 5:
+Took this class fall semester. Be warned: the first few assignments are easy to lull you into comfort, then suddenly assignment 5 or 6 will take your entire weekend. Form a study group early. The TAs hold Sunday office hours which fill up fast. Canvas has helpful resources. Piazza is active and KMP actually responds.
+
+---
+
+Professor: John Majikes (COMP 110 / COMP 116)
+Rating: 4.6/5
+
+Review 1:
+Majikes is the best intro CS professor at UNC. He genuinely wants every student to succeed. He makes Python feel accessible even if you've never coded before. The quizzes are low-stakes and just check if you did the readings. Exams are fair - he tells you exactly what to study. Go to his office hours even if you don't have questions, he's just great to talk to.
+
+Review 2:
+I took COMP 110 terrified of coding and came out actually enjoying it. Majikes is patient, funny, and explains things multiple ways until it clicks. The projects are creative - one involved making a simple game. He uses live coding in class which sometimes goes wrong but that's part of the lesson honestly. Highly recommend for anyone nervous about CS.
+
+Review 3:
+The autograder for COMP 110 is strict about spacing and naming conventions so read the style guide. Other than that the workload is very manageable. Majikes posts everything on the course website before class. Attendance isn't required but his lectures are engaging enough that you want to go. Easy A if you keep up with the work.
+
+---
+
+Professor: Gary Bishop (COMP 426 - Modern Web Programming)
+Rating: 4.1/5
+
+Review 1:
+Gary Bishop knows web dev inside and out. The course covers React, Node, and full-stack development. The final project is building a real web app which you can put on your resume. Grading is lenient on design as long as the functionality works. He's direct and doesn't waste time. Some lectures are recorded but attendance is helpful because he does live demos.
+
+Review 2:
+COMP 426 workload is heavy but you learn a ton. The assignments build on each other so don't fall behind. He provides starter code which helps. The group final project can be stressful if your team doesn't communicate. Start recruiting teammates early. Peer evaluations affect your grade so don't slack on group work.

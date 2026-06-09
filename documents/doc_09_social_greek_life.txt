@@ -1,0 +1,72 @@
+Source: Reddit r/UNC - Greek life and social scene threads (manually collected)
+Domain: UNC Chapel Hill social life and extracurricular activities
+
+---
+
+Thread: "Honest assessment of Greek life at UNC - worth rushing?" (r/UNC, 678 upvotes)
+
+Top comment:
+I went through formal recruitment and de-pledged halfway through. Here's my honest take:
+
+WHO GREEK LIFE IS GOOD FOR:
+- People who want a built-in social structure from day one
+- People with family legacy connections who already know what they're getting into
+- People who can afford the dues (panhellenic chapters typically run $1,500-3,000/semester in dues + housing if you live in the house)
+- People who don't mind a significant time commitment, especially during new member education
+
+WHO IT'S NOT FOR:
+- People who need financial flexibility (dues are not optional, and some chapters have mandatory events with associated costs)
+- People who already have a strong social group or hobby community
+- People who value choosing their friends over time rather than being assigned them
+
+THE LOGISTICS:
+- Panhellenic (sorority) formal recruitment is in early spring semester. IFC (fraternity) recruitment is more informal and happens throughout the year.
+- You don't have to live in the house even if you join. Many members live off-campus.
+- Grades: Most chapters have minimum GPA requirements to remain active. Some chapters have excellent academic support systems; others don't.
+- Time: Active membership during your first year is a substantial time commitment. Plan your course load accordingly.
+
+Reply (423 upvotes):
+If you want the social benefits of Greek life without the financial or time commitment, consider professional fraternities (like business or pre-law orgs) or service fraternities like Alpha Phi Omega. Lower commitment, similar networking.
+
+Reply (312 upvotes):
+Cultural and multicultural orgs often have the same social benefits without dues. NPHC (National Pan-Hellenic Council) chapters on campus are smaller and more community-focused than IFC chapters. BSMC, La Unidad, and similar cultural organizations often have the tightest-knit social networks on campus. Worth knowing these options exist before assuming Greek life = IFC/Panhellenic.
+
+---
+
+Thread: "Best student organizations at UNC for CS/tech students" (r/UNC)
+
+Top comment (389 upvotes):
+If you're in CS or interested in tech, these are the orgs worth knowing:
+
+1. HackNC (UNC's hackathon org): Runs one of the bigger hackathons in the Southeast. Get involved if you want to learn rapid prototyping and meet people from other schools.
+
+2. CS+Social Good: Works on tech projects with a social impact focus. Has alumni mentors in tech. Good for people interested in the intersection of CS and civic/social work.
+
+3. Women in CS (WiCS): Active, well-funded, has speakers from industry. Welcoming to people of all genders who care about inclusion in tech.
+
+4. ACM (Association for Computing Machinery) UNC chapter: More traditional CS club. Has study groups, code challenges, and networking events. Less active than HackNC but a good general home base.
+
+5. UNC's Competitive Programming team: Very niche. If you like competitive programming problems (LeetCode-style), this is your people. Can lead to ACM ICPC participation.
+
+Reply (267 upvotes):
+For non-tech-specific orgs that CS students love:
+- Carolina Data Challenge: Data science competition, great for stats-CS overlap people
+- Entrepreneurship and Innovation clubs: Have lots of tech-adjacent activity
+- Research-oriented orgs affiliated with specific faculty labs (check department website for undergrad research openings)
+
+---
+
+Thread: "What is Franklin Street actually like and is it overhyped?" (r/UNC)
+
+Top comment (534 upvotes):
+Franklin Street is the main commercial street adjacent to campus. Here's the practical breakdown:
+
+FOOD AND DRINK:
+- Top of the Hill (TOPO) at the corner of Franklin & Columbia: Classic UNC bar, good for watching games but crowded and loud. Graduate students and upperclassmen go here.
+- He's Not Here (HNH): Famous for the Blue Cup (giant drink). Touristy but a UNC tradition. Go at least once.
+- Sup Dogs: Hot dogs and wings, open late, cash-friendly, good late night option.
+- Cosmic Cantina: Open until 4am. Huge burritos. Essential for post-studying late night food. Cash only for the cheapest prices.
+- Carolina Coffee Shop: Oldest restaurant in Chapel Hill. Good brunch. Owned by the same family for generations.
+
+THE REPUTATION VS. REALITY:
+Franklin Street's party reputation is mostly Friday/Saturday nights. Weeknights it's quiet and functional. The street is genuinely walkable from most of central campus. The west end (toward Carrboro) has better independent restaurants and less tourist-trap pricing. Saturday mornings during football season, Franklin Street becomes a tailgate zone.

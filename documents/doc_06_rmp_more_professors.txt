@@ -1,0 +1,63 @@
+Source: Rate My Professors - UNC Chapel Hill (manually collected)
+Domain: UNC professor reviews
+
+---
+
+Professor: Jasleen Kaur (COMP 311 - Systems Fundamentals)
+Rating: 4.3/5
+
+Review 1:
+Jasleen is the best systems professor in the department. She is clear, organized, and genuinely cares about student understanding. Lab sections are where the real learning happens. Her exams are hard but fair - she tests exactly what she covers in lecture. The C programming labs are well-structured. Go to office hours after lab if you're confused, she is very patient.
+
+Review 2:
+COMP 311 with Kaur is tough but I came out feeling like I actually understand how computers work. The assembly unit is where most people struggle - watch the lecture videos more than once for that section. Her exam style is to give you a small program and ask you to trace through it. Practice this religiously and you'll do well.
+
+Review 3:
+The workload is heavy (weekly labs, 3 projects, 2 midterms, final) but evenly distributed so it doesn't feel crushing if you keep up. She posts detailed rubrics for everything. Grading is consistent and fair. Some professors in this course have been inconsistent but Kaur runs a tight ship.
+
+---
+
+Professor: Montek Singh (COMP 411 - Computer Organization)
+Rating: 3.8/5
+
+Review 1:
+Montek is knowledgeable but lectures can be hard to follow if you haven't done the readings. He assumes familiarity with the prerequisite material. The course covers digital logic, processor design, and memory systems. The homework assignments are conceptual rather than coding - closer to electrical engineering than software. Not for everyone but important for systems-minded people.
+
+Review 2:
+His office hours are more useful than his lectures honestly. He explains things very differently one-on-one. If you take his course, go to office hours regularly. The lab partner on the final project matters a lot - plan ahead. The digital logic simulator labs are actually kind of fun once you get used to the tool.
+
+---
+
+Professor: Diane Pozefsky (COMP 523 - Software Engineering Lab)
+Rating: 4.5/5
+
+Review 1:
+Pozefsky is a legend in the department. COMP 523 is unlike any other CS course - you're working with a real external client on an actual software project. She manages the chaos really well. She's direct, gives useful feedback, and genuinely wants teams to ship something they're proud of. The semester-end demo is public and clients attend. Take this seriously.
+
+Review 2:
+The grade depends heavily on your team and your client relationship. Teams that communicate poorly with clients tend to struggle. Pozefsky does check-ins throughout the semester - don't sandbag. She notices if one person is doing all the work. The course teaches you more about software development reality than any other class in the major.
+
+Review 3:
+Best course in the CS program. You'll learn Git workflow, how to run a standup, how to talk to non-technical stakeholders, how to scope requirements, and how to give a technical demo. These are the things that actually matter in jobs. Take it junior or senior year so you have enough technical depth to contribute.
+
+---
+
+Professor: Shaun Walbridge (COMP 426 - Modern Web Programming)
+Rating: 4.0/5
+
+Review 1:
+Good practical course. He knows the industry well and teaches things that are actually used. The assignment stack (React + Node + Express + MongoDB) is standard for web jobs. He moves fast so watch recorded lectures if you miss anything. The final project is the main deliverable and he gives real feedback on code quality not just functionality.
+
+Review 2:
+The grading rubric for projects could be clearer. You sometimes don't know what got you points and what didn't. But the course itself is valuable. Deploy your final project and put it on your GitHub - it makes a real portfolio piece. He encourages this.
+
+---
+
+Professor: Jan Prins (COMP 455 - Models of Languages and Computation)
+Rating: 3.9/5
+
+Review 1:
+Prins is a clear lecturer for a notoriously abstract course. He builds up the theory very systematically. The first unit (regular languages, NFAs/DFAs) is the easiest. The Turing machine section is where it gets philosophically interesting. His exams are proof-heavy - get comfortable writing formal proofs. He drops the lowest homework.
+
+Review 2:
+The material is challenging but Prins makes it accessible. Don't let the theory scare you away - it's actually one of the most intellectually interesting courses in the major. His office hours are low-traffic so you get real one-on-one time. The textbook (Sipser) is helpful but not required if you take good notes.
