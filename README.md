@@ -42,6 +42,27 @@ Student reviews of CS professors and courses at UNC Chapel Hill. This knowledge 
 
 ---
 
+## Sample Chunks
+
+Five representative chunks from the final pipeline, each shown with its source document:
+
+**Chunk 1** — Source: `doc_01_comp401_reviews.txt`
+> "Professor: Ketan Mayer-Patel (COMP 401 - Foundations of Programming) Rating: 3.2/5 Review 1: KMP is brilliant but moves at lightning speed. If you don't do the assignments every week you will fall behind and there's no catching up."
+
+**Chunk 2** — Source: `doc_01_comp401_reviews.txt`
+> "ssignments - if you understand every line of code you wrote, you'll be fine. Don't expect curves. Attendance is not taken but you will be lost if you skip. Review 2: COMP 401 with KMP is the weed-out course for CS majors."
+
+**Chunk 3** — Source: `doc_12_jordan_reviews.txt`
+> "Professor: Kris Jordan (COMP 110 - Introduction to Programming, COMP 423 - Foundations of Software Engineering) Rating: 4.7/5 Review 1: Kris Jordan is genuinely one of the best professors in the CS department. He redesigned COMP 110 from scratch and it shows."
+
+**Chunk 4** — Source: `doc_14_anderson_reviews.txt`
+> "Professor: Jim Anderson (COMP 530 - Operating Systems, COMP 530L - OS Lab) Rating: 3.7/5 Review 1: Anderson is one of the most knowledgeable professors in the department on systems topics. COMP 530 is a serious course - you implement a real operating system kernel over the semester in C."
+
+**Chunk 5** — Source: `doc_06_rmp_more_professors.txt`
+> "MP 523 - Software Engineering Lab) Rating: 4.5/5 Review 1: Pozefsky is a legend in the department. COMP 523 is unlike any other CS course - you're working with a real external client on an actual software project. She manages the chaos really well."
+
+---
+
 ## Embedding Model
 
 **Model used:** `all-MiniLM-L6-v2` via `sentence-transformers`
@@ -50,11 +71,114 @@ Student reviews of CS professors and courses at UNC Chapel Hill. This knowledge 
 
 ---
 
+## Retrieval Test Results
+
+**Query 1:** "How hard is COMP 401 and what are the exams like?"
+
+| Rank | Source | Distance | Chunk preview |
+|------|--------|----------|---------------|
+| 1 | `doc_01_comp401_reviews.txt` | 0.4515 | "ssignments - if you understand every line of code you wrote, you'll be fine. Don't expect curves..." |
+| 2 | `doc_06_rmp_more_professors.txt` | 0.5550 | "than once for that section. Her exam style is to give you a small program and ask you to trace through it..." |
+| 3 | `doc_01_comp401_reviews.txt` | 0.5590 | "Professor: Ketan Mayer-Patel (COMP 401 - Foundations of Programming) Rating: 3.2/5 Review 1: KMP is brilliant..." |
+
+**Why results 1 and 3 are relevant:** Both chunks come from `doc_01_comp401_reviews.txt`, the dedicated COMP 401 review file. Result 1 directly answers the exam question ("understand every line of code you wrote, you'll be fine. Don't expect curves"). Result 3 introduces the professor and course context. The low distances (0.45 and 0.56) confirm strong semantic alignment between the query and these chunks.
+
+---
+
+**Query 2:** "Is Kris Jordan a good professor for beginners?"
+
+| Rank | Source | Distance | Chunk preview |
+|------|--------|----------|---------------|
+| 1 | `doc_12_jordan_reviews.txt` | 0.4361 | "Professor: Kris Jordan (COMP 110 - Introduction to Programming...) Rating: 4.7/5 Review 1: Kris Jordan is genuinely one of the best professors..." |
+| 2 | `doc_17_munsell_reviews.txt` | 0.4418 | "as undergrads, he is one of the better faculty to approach. Show up knowing the basics..." |
+| 3 | `doc_06_rmp_more_professors.txt` | 0.4851 | "Professor: Jasleen Kaur (COMP 311 - Systems Fundamentals) Rating: 4.3/5..." |
+
+**Why result 1 is relevant:** The top chunk comes directly from the Jordan review file and contains his name, the intro course (COMP 110), and his rating (4.7/5). The query phrase "good for beginners" semantically matches "Introduction to Programming" and "one of the best professors," which is why this chunk ranked first with distance 0.44.
+
+---
+
+**Query 3:** "What is COMP 530 Operating Systems like?"
+
+| Rank | Source | Distance | Chunk preview |
+|------|--------|----------|---------------|
+| 1 | `doc_14_anderson_reviews.txt` | 0.3384 | "Professor: Jim Anderson (COMP 530 - Operating Systems, COMP 530L - OS Lab)..." |
+| 2 | `doc_14_anderson_reviews.txt` | 0.6361 | "but when you're done you genuinely understand how computers work at a level most CS graduates never reach..." |
+| 3 | `doc_16_terrell_reviews.txt` | 0.6615 | "uches databases - take COMP 421 with Terrell..." |
+
+---
+
 ## Grounded Generation
 
 **System prompt grounding instruction:** The system prompt explicitly tells the model: *"Base your answer EXCLUSIVELY on the provided context. Do not use general knowledge or make up information. If the documents do not contain enough information to answer the question, say exactly: 'I don't have enough information in my documents to answer that.'"* The temperature is set to 0.2 to reduce creative extrapolation. The retrieved chunks are passed directly in the user message as numbered, labeled context blocks (e.g., `[Document 1 | Source: doc_01_comp401_reviews.txt]`) so the model sees exactly where each piece of information comes from.
 
 **How source attribution is surfaced in the response:** Source attribution is enforced programmatically — after generation, the `ask()` function collects the `source` field from each retrieved chunk and deduplicates them into a list, which is returned separately from the LLM answer. The Gradio UI displays this list in a dedicated "Retrieved from" field. This means source attribution is always present even if the LLM omits it in its text, because it is appended by the pipeline, not left to the model to include.
+
+---
+
+## Example Responses
+
+**Response 1 — Grounded answer with source attribution:**
+
+> **Query:** What are COMP 401 exams like and how should students prepare?
+>
+> **Answer:** According to Document 1 and Document 2, COMP 401 exams are based almost entirely on the assignments. To prepare, students should understand every line of code they wrote for the assignments. If they do, they will be fine. It is also mentioned that lectures are recorded, which can be helpful for review. Additionally, it is advised not to fall behind on assignments, as it can be difficult to catch up.
+>
+> **Retrieved from:** doc_01_comp401_reviews.txt, doc_13_jeffay_reviews.txt, doc_06_rmp_more_professors.txt
+
+---
+
+**Response 2 — Grounded answer with source attribution:**
+
+> **Query:** What do students say about Diane Pozefsky and COMP 523?
+>
+> **Answer:** According to the documents, students say that Diane Pozefsky is a "legend in the department" and that COMP 523 - Software Engineering Lab is "unlike any other CS course." They appreciate that she manages the chaos of working with real external clients well, is direct, gives useful feedback, and wants teams to produce something they're proud of. Additionally, students note that the grade in COMP 523 depends heavily on team and client relationship, and that Pozefsky checks in throughout the semester to ensure everyone is contributing. Overall, she has a rating of 4.5/5.
+>
+> **Retrieved from:** doc_06_rmp_more_professors.txt, doc_18_snoeyink_reviews.txt, doc_15_stotts_reviews.txt
+
+---
+
+**Out-of-scope refusal:**
+
+> **Query:** What is the current tuition at UNC Chapel Hill for out-of-state students?
+>
+> **Answer:** I don't have enough information in my documents to answer that.
+>
+> **Retrieved from:** doc_14_anderson_reviews.txt, doc_01_comp401_reviews.txt, doc_06_rmp_more_professors.txt
+
+---
+
+## Query Interface
+
+The system has a Gradio web UI (`app.py`) accessible at `http://localhost:7860` after running `python3 app.py`.
+
+**Input fields:**
+- **Your question** — a free-text textbox (2 rows). Submit by pressing Enter or clicking the "Ask the Guide" button.
+
+**Output fields:**
+- **Answer** — 8-row textbox showing the LLM-generated grounded response.
+- **Retrieved from** — accordion (open by default) showing a bulleted list of source document filenames the answer drew from.
+- **Retrieved chunks (debug view)** — collapsible accordion showing all top-5 retrieved chunks with their source filename and cosine distance score.
+
+**Sample interaction transcript:**
+
+```
+Input: Is Kris Jordan a good professor for intro CS?
+
+Answer:
+According to the documents, yes, Kris Jordan is a good professor for intro CS.
+Review 1 states that he "is genuinely one of the best professors in the CS
+department" and that his redesign of COMP 110 "is modern, well-structured, and
+actually fun." Review 7 also mentions that Kris Jordan "single-handedly made me
+like CS" and that the course is "designed with beginners in mind." His use of
+TypeScript instead of Python is seen as a positive aspect for web-focused
+projects. Overall, the reviews suggest that Kris Jordan is a great professor
+for intro CS, especially for beginners.
+
+Retrieved from:
+• doc_12_jordan_reviews.txt
+• doc_18_snoeyink_reviews.txt
+• doc_01_comp401_reviews.txt
+```
 
 ---
 
