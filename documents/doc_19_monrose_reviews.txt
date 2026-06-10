@@ -1,0 +1,34 @@
+Source: Rate My Professors - UNC Chapel Hill COMP 435 / COMP 590
+Collected: manually from ratemyprofessors.com
+Domain: UNC CS professor and course reviews
+
+---
+
+Professor: Fabian Monrose (COMP 435 - Computer Security, COMP 590 - Advanced Security Topics)
+Rating: 4.3/5
+
+Review 1:
+Monrose is one of the top security researchers in the country and it shows in how he teaches. COMP 435 covers the full spectrum of computer security - cryptography fundamentals, network security, software vulnerabilities, authentication, and privacy. He doesn't just teach you tools; he teaches you how to think like an attacker and a defender simultaneously. This perspective is hard to get from textbooks and extremely valuable.
+
+Review 2:
+The course has three main components: lectures, problem sets, and a final project. Problem sets are challenging and require real thought - they are not just fill-in-the-blank. Some involve analyzing real cryptographic protocols or finding vulnerabilities in provided code. The final project is open-ended and he encourages ambitious ideas. Previous students have done original vulnerability research and security tooling.
+
+Review 3:
+His lectures are dense but he posts thorough slides. The cryptography unit is the hardest - if your math background (probability, modular arithmetic, number theory) is weak, review before the course. He explains everything from first principles which is great but also means if you miss a lecture you may be confused for the rest of that unit. He does not post lecture recordings.
+
+Review 4:
+Office hours are very useful. He engages seriously with student questions and treats undergrads as capable of understanding sophisticated material. He will push you to think more carefully rather than just giving answers, which can be frustrating in the moment but produces better results. He responds to emails but prefers that substantive technical questions come to office hours so he can draw things out.
+
+Review 5:
+COMP 590 (Advanced Security) varies by semester. When Monrose teaches it, it's typically research-paper-based with presentations and a research project. It is graduate-level in rigor. Undergrads who take it should have completed 435 first and be genuinely interested in security research. His network in the security research community is extensive - he has connected strong students with internship and research opportunities.
+
+---
+
+Professor: Fabian Monrose (General)
+Rating: 4.4/5
+
+Review 6:
+Best course for students interested in cybersecurity careers. After COMP 435 you can speak intelligently about the threat landscape, understand how attacks work at a technical level, and analyze security tradeoffs. This is exactly what security-focused employers want. Monrose's reputation in the field means a strong recommendation from him carries real weight.
+
+Review 7:
+He holds students to high standards and doesn't soften feedback. If your work isn't good he will tell you. This is a feature not a bug - you want a professor who takes your intellectual development seriously. Come prepared, put in the effort, and you'll get real value out of the course. Coasting doesn't work in his class. Students who are genuinely curious about security get a lot out of it.

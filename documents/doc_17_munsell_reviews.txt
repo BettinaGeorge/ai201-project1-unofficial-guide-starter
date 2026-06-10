@@ -1,0 +1,34 @@
+Source: Rate My Professors - UNC Chapel Hill COMP 572 / COMP 590
+Collected: manually from ratemyprofessors.com
+Domain: UNC CS professor and course reviews
+
+---
+
+Professor: Brent Munsell (COMP 572 - Computer Vision, COMP 590 - Special Topics in ML/CV)
+Rating: 4.0/5
+
+Review 1:
+Munsell teaches computer vision and machine learning topics. COMP 572 covers the fundamentals of computer vision - image processing, feature detection, convolutional networks, object detection. He is knowledgeable and clearly passionate about the field. The course assumes comfort with linear algebra and Python (numpy/PyTorch). If your linear algebra is rusty, review it before the course starts or you will struggle from week one.
+
+Review 2:
+The projects in his course are genuinely interesting - one involved training a model to classify images, another used traditional CV techniques for edge detection and feature matching. He provides good starter code but expects you to understand and modify it meaningfully. The written reports that accompany each project are graded seriously - he wants you to explain what worked, what didn't, and why.
+
+Review 3:
+His lectures can be dense with math. Some students find this off-putting but if you engage with the material actively (asking questions, working examples) it becomes manageable. He is patient in office hours and will re-explain concepts at whatever level you need. He doesn't assume prior ML experience but moves fast enough that prior exposure is a real advantage.
+
+Review 4:
+Midterm was a mix of conceptual questions and short derivations. Know the math behind convolutions, gradient descent, and backpropagation. Don't just know how to use these in code - know why they work. His final project (a semester-long CV project of your choosing) is the main deliverable. Pick a project that genuinely interests you because you'll spend a lot of time on it. Previous students have done face recognition, medical image segmentation, and autonomous vehicle perception.
+
+Review 5:
+COMP 590 (Special Topics) varies by semester. When Munsell teaches it it often focuses on recent advances in deep learning or computer vision. Check what the topic is for your semester before registering. He is good at making cutting-edge research accessible to upper-level undergrads. If you're thinking about grad school in ML or vision, his course + a research project with him is a strong combination.
+
+---
+
+Professor: Brent Munsell (General)
+Rating: 4.1/5
+
+Review 6:
+Munsell is accessible and responsive. He answers emails promptly and his office hours are genuinely useful. He is research-active and will talk to you about research opportunities if you show real interest. For students who want to do CV or ML research as undergrads, he is one of the better faculty to approach. Show up knowing the basics and have a project idea in mind.
+
+Review 7:
+His grading is fair but he has high standards for the written components. The reports need to be clear, precise, and technically honest - don't oversell results that didn't work. He respects intellectual honesty and gives credit for thoughtful analysis of failure cases. This is actually good training for research and industry data science, where you need to communicate what didn't work as clearly as what did.

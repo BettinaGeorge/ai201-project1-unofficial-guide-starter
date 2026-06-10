@@ -1,0 +1,34 @@
+Source: Rate My Professors - UNC Chapel Hill COMP 431 / COMP 533
+Collected: manually from ratemyprofessors.com
+Domain: UNC CS professor and course reviews
+
+---
+
+Professor: Kevin Jeffay (COMP 431 - Internet Services and Protocols, COMP 533 - Advanced Networking)
+Rating: 3.9/5
+
+Review 1:
+Jeffay is a world-class researcher who actually knows this material at a deep level. COMP 431 covers how the internet actually works - DNS, HTTP, TCP/IP, sockets - and he explains it better than any textbook I've read. His lectures are dense but worth attending because he regularly says things that aren't in the slides. Exams are hard and require understanding, not memorization. He does not curve easily - earn your grade.
+
+Review 2:
+The programming assignments in COMP 431 are legitimately challenging. You implement parts of real network protocols from scratch in C or Python. The first assignment seems simple; by assignment 3 you're writing a functioning HTTP server. These are the kinds of projects you'll brag about in interviews. Start early - debugging network code is slow. His expectations for correctness are high.
+
+Review 3:
+Jeffay can be intimidating in office hours because he expects you to have tried things before coming. Show up with specific questions and evidence of what you've already attempted. If you come in unprepared he'll send you back to try more. But if you've done the work, he gives excellent guidance. His feedback on written assignments is detailed and useful.
+
+Review 4:
+Took COMP 533 (grad-level networking) as an undergrad with instructor permission. Jeffay treats undergrads the same as grad students - no hand-holding but also no condescension. The reading load is heavy (research papers weekly). The final project is a research-style experiment where you design, run, and analyze a networking experiment. Best learning experience I had at UNC but definitely not for the faint of heart.
+
+Review 5:
+His exams have a very specific style: he gives you a scenario (a packet trace, a network diagram, a failure mode) and asks you to reason through what happens step by step. Practice this format specifically. Past exams are available on his course website. He is consistent about what he tests. The oral component of some assignments is easy if you actually wrote the code yourself.
+
+---
+
+Professor: Kevin Jeffay (General)
+Rating: 4.1/5
+
+Review 6:
+If you want to work in backend infrastructure, distributed systems, or networking, you need to take Jeffay's course. The material is foundational. He is demanding because the field demands precision. He has high standards because the internet breaks when people write bad network code. His reputation in the research community is excellent and he brings that perspective into every lecture.
+
+Review 7:
+COMP 431 is listed as an elective but it should be required for CS majors who want to do backend work. After this course I understood what was actually happening every time I made an API call. The understanding compounds - everything else in systems made more sense after taking this. Fair warning: you will spend a lot of time in Wireshark.

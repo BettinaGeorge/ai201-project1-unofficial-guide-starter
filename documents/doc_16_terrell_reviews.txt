@@ -1,0 +1,34 @@
+Source: Rate My Professors - UNC Chapel Hill COMP 421 / COMP 110
+Collected: manually from ratemyprofessors.com
+Domain: UNC CS professor and course reviews
+
+---
+
+Professor: Jeff Terrell (COMP 421 - Files and Databases, COMP 110 sections)
+Rating: 4.4/5
+
+Review 1:
+Terrell is excellent. COMP 421 (Databases) is one of the most directly applicable courses in the major and he teaches it really well. Covers relational databases, SQL, normalization, transactions, indexing - all the things you'll actually use in industry. The assignments are realistic: you design a schema, populate it, and query it for a real-world-ish scenario. SQL skills from this class paid off immediately in my internship.
+
+Review 2:
+His lectures are organized and paced well. He uses live SQL demos in class which are much more engaging than just reading slides. He encourages questions and actually answers them rather than deflecting. Office hours are never too crowded because he gives you enough to work with in lecture that you don't constantly need help. This is a sign of good teaching.
+
+Review 3:
+COMP 421 midterm was harder than I expected - he tested edge cases in SQL I hadn't thought about (NULL handling, ambiguous join conditions). Review NULL behavior specifically. His final was more straightforward. The project (designing and implementing a database for a scenario of your choosing) is the most important grade component. Start early and make sure your schema is normalized before you start writing queries.
+
+Review 4:
+Took COMP 110 with Terrell. Different style from Kris Jordan but equally good. He's more traditional in approach - clear explanations, well-structured assignments, predictable exam format. Good for students who prefer a more structured learning environment. The Python assignments are well-scaffolded and increase in complexity at a reasonable pace.
+
+Review 5:
+Terrell is one of those professors who is clearly good at the job because he prepares. Every lecture has a clear arc. He doesn't ramble. He respects students' time. Exams reflect exactly what was covered in class - no surprises, no trick questions. If you showed up and paid attention you will do fine. He is also responsive over email which is more than you can say for a lot of professors.
+
+---
+
+Professor: Jeff Terrell (General Notes)
+Rating: 4.5/5
+
+Review 6:
+If you need a database course for your resume - and you do, every software job touches databases - take COMP 421 with Terrell. It's well-taught, manageable workload, and the skills transfer directly. After this course you can write complex SQL, design normalized schemas, and explain transaction isolation. That's legitimately useful. He makes it stick.
+
+Review 7:
+Best advice for his class: don't fall behind on the SQL syntax. It seems easy at first (SELECT FROM WHERE) and then suddenly you're doing window functions and subqueries and CTEs. Keep practicing incrementally. SQLZoo and LeetCode SQL problems are good supplements. Terrell's assignments are the best practice though - just do them thoroughly.

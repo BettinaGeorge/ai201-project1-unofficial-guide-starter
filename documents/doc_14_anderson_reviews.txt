@@ -1,0 +1,34 @@
+Source: Rate My Professors - UNC Chapel Hill COMP 530 / COMP 530L
+Collected: manually from ratemyprofessors.com
+Domain: UNC CS professor and course reviews
+
+---
+
+Professor: Jim Anderson (COMP 530 - Operating Systems, COMP 530L - OS Lab)
+Rating: 3.7/5
+
+Review 1:
+Anderson is one of the most knowledgeable professors in the department on systems topics. COMP 530 is a serious course - you implement a real operating system kernel over the semester in C. It is brutal and time-consuming but when you're done you genuinely understand how computers work at a level most CS graduates never reach. Not for beginners. Take 311 and 411 first.
+
+Review 2:
+The OS course has a reputation that scares people off and honestly the reputation is earned. The kernel project is massive - memory management, process scheduling, file systems. Your team will spend entire weekends on this. But Anderson gives you the tools and the lab section (530L) is where you actually learn to debug kernel code. Go to every lab. The TAs are experienced and essential.
+
+Review 3:
+Anderson's lectures are very technical and move fast. He assumes you're keeping up with the reading (the xv6 textbook - it's free online). Do the readings before lecture or you'll be lost. His exams are written and cover concepts deeply - not code syntax but operating system design tradeoffs. Why does this scheduler policy have this weakness? What happens to memory when a process forks? That kind of reasoning.
+
+Review 4:
+The kernel project grading is based on automated tests plus a demo where you show it working. The demo matters - Anderson and the TAs ask questions about your implementation. If you didn't write the code yourself you will get caught. He has been doing this for decades and can tell when a student doesn't understand their own project. Write your own code and understand every line.
+
+Review 5:
+Office hours for 530 are extremely crowded near project deadlines. Go early in the week, not the day before it's due. Anderson prioritizes students who come with specific questions. The Slack for the course is active and monitored by TAs. He is strict but fair. He has been known to give partial credit generously if you clearly understand the concept even if the implementation isn't complete.
+
+---
+
+Professor: Jim Anderson (General Notes)
+Rating: 3.8/5
+
+Review 6:
+Anderson is the kind of professor who makes you realize how much you didn't know. His course is humbling in a good way. I walked in thinking I understood computers and left knowing I had only scratched the surface before. He doesn't suffer fools but he genuinely wants students who put in the effort to succeed. He's been at UNC for a long time and knows the curriculum deeply.
+
+Review 7:
+Take OS if you want to work in systems, embedded, firmware, cloud infrastructure, or anything low-level. It's a differentiator on your resume and in interviews. Google and Microsoft interviewers have specifically asked me OS concepts that I learned in this course. It's hard but it's worth it if that's your career direction. If you want to do web dev, there are easier paths to the same jobs.

@@ -1,0 +1,34 @@
+Source: Rate My Professors - UNC Chapel Hill COMP 110 / COMP 423
+Collected: manually from ratemyprofessors.com
+Domain: UNC CS professor and course reviews
+
+---
+
+Professor: Kris Jordan (COMP 110 - Introduction to Programming, COMP 423 - Foundations of Software Engineering)
+Rating: 4.7/5
+
+Review 1:
+Kris Jordan is genuinely one of the best professors in the CS department. He redesigned COMP 110 from scratch and it shows - the course is modern, well-structured, and actually fun. He uses TypeScript instead of Python which is unusual for intro CS but makes a lot of sense for web-focused projects. He is endlessly patient and genuinely excited about teaching. If you're scared of coding, take his section.
+
+Review 2:
+COMP 110 with Kris is extremely well run. Every lecture has a clear objective, the exercises are thoughtful, and the assignments are creative. He posts everything online and the course website is excellent. Office hours are crowded but he also has an extensive async help system. Grading is fair and transparent. The course focuses on problem-solving logic, not just syntax - which is the right approach for beginners.
+
+Review 3:
+Took COMP 423 (Software Engineering) with Kris. Completely different vibe from 110 - this is a project-heavy course where you build a real full-stack app over the semester. He teaches React, FastAPI, and deployment. The amount you learn is insane compared to any other course. He gives real code reviews, not just autograder scores. This is the class where you actually start feeling like a developer. Hard but absolutely worth it.
+
+Review 4:
+His teaching style is very Socratic - he asks the class questions during lecture and builds answers collaboratively. Some people find this slow but I found it genuinely helpful for understanding the why behind things. He records all lectures. His exams test conceptual understanding more than memorization. He drops the lowest quiz score. Very generous with accommodations if you reach out proactively.
+
+Review 5:
+COMP 423 workload is heavy (weekly PRs, code reviews, team project). But everything he assigns has a clear purpose - no busywork. He is very transparent about grading and responds to email quickly. The team project at the end is something you can genuinely show employers. He writes detailed letters of rec for students he knows well. Go to office hours even when you don't need help.
+
+---
+
+Professor: Kris Jordan (COMP 110 - Section Notes)
+Rating: 4.8/5 (teaching assistant team)
+
+Review 6:
+The TA team for COMP 110 under Kris is exceptional. TAs are trained to teach, not just debug your code for you. Office hours are structured around learning, not just getting answers. The Piazza/Ed forum is extremely active and monitored closely. If you're confused about something, post a question and you'll have an answer within an hour during business hours. The whole course is designed with beginners in mind and it shows in every detail.
+
+Review 7:
+Kris Jordan single-handedly made me like CS. I came in as a non-major just taking it for GenEd credit and left considering switching majors. The projects were actually interesting - one involved building a small interactive web app. He makes the material relevant to things students actually care about. Clear instructions, fair grading, and you always know where you stand gradewise.

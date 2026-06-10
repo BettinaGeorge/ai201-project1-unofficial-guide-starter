@@ -1,0 +1,34 @@
+Source: Rate My Professors - UNC Chapel Hill COMP 550 / COMP 410
+Collected: manually from ratemyprofessors.com
+Domain: UNC CS professor and course reviews
+
+---
+
+Professor: Jack Snoeyink (COMP 410 - Data Structures, COMP 550 - Algorithms sections)
+Rating: 4.1/5
+
+Review 1:
+Snoeyink is a well-respected researcher who brings genuine intellectual depth to his courses. COMP 410 covers all the core data structures - linked lists, trees, heaps, hash tables, graphs - with a focus on implementation and runtime analysis. He expects you to understand not just how to use these structures but why they work the way they do. His explanations of tree rotations and hash collision resolution are among the clearest I've encountered anywhere.
+
+Review 2:
+His exams are conceptual and require you to reason carefully, not just recall facts. He often asks you to analyze a piece of code and determine its time complexity, or to choose the right data structure for a given problem and justify your choice. There are no trick questions but there are questions that require careful thought. Read them slowly. Partial credit is given generously for correct reasoning even with a wrong final answer.
+
+Review 3:
+Office hours with Snoeyink are excellent. He doesn't just give you answers - he asks you questions to guide your thinking. This can be frustrating when you're stuck and want a quick fix, but it produces much better understanding. He has a whiteboard-heavy teaching style that translates well to office hours. Bring paper and a pencil, not just your laptop.
+
+Review 4:
+COMP 410 programming assignments are in Java. They are carefully designed to force you to implement each structure from scratch - no importing Java's built-in data structures for the actual assignment logic. The autograder tests edge cases aggressively. Test your own code with edge cases (empty structures, single elements, duplicate values) before submitting. He gives style points too - readable, commented code matters.
+
+Review 5:
+He is one of the more mathematically rigorous professors in the department. If you are comfortable with proofs and mathematical reasoning you will enjoy his course. If you struggle with that side of CS, go to every office hour and ask for help with the mathematical components specifically. He is patient about this even if his lectures move faster than some students would prefer.
+
+---
+
+Professor: Jack Snoeyink (General)
+Rating: 4.0/5
+
+Review 6:
+One of the department's senior faculty with decades of experience. He's not trying to be popular - he's trying to teach you computer science properly. His courses are harder than average but the material sticks. Students who struggled in his class often say years later that it was one of the most valuable courses they took. Go in expecting to work hard and you'll come out better for it.
+
+Review 7:
+Best preparation for his exams: practice explaining algorithms and data structures out loud, as if teaching someone else. If you can explain why a red-black tree rebalances the way it does, or what happens to a hash table's performance as the load factor increases, you are ready. Memorizing procedures without understanding them will not get you through his tests.
